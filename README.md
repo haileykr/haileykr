@@ -19,9 +19,7 @@ Here are some ideas to get you started:
   I am a professional structural engineer (P.E)👯 aiming to get a B.Eng in Computer Engineering this August.😊
   </em></p>
   
-[![Linkedin: haileykr](https://img.shields.io/badge/-hailey_harry_kim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileyharrykim/)](https://www.linkedin.com/in/haileyharrykim/)
-
-[![Tistory: haileykr](https://img.shields.io/badge/-hailey_harry_kim-black?style=flat-square&logo=Github_Sponsors&logoColor=white&link=https://www.linkedin.com/in/haileyharrykim/)](https://piaflu.tistory.com)
+[![Linkedin: haileykr](https://img.shields.io/badge/-hailey_harry_kim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileyharrykim/)](https://www.linkedin.com/in/haileyharrykim/) [![Tistory: haileykr](https://img.shields.io/badge/-tistory_(korean)-black?style=flat-square&logo=Github_Sponsors&logoColor=white&link=https://www.linkedin.com/in/haileyharrykim/)](https://piaflu.tistory.com)
 
 
 
@@ -46,6 +44,7 @@ const aboutMe = {
 ```
 </br></br>
 <h2>🌱 Github stats 🌱</h2>
+
 ![haileykr's github stats](https://github-readme-stats.vercel.app/api?username=haileykr&show_icons=true)
 
 
