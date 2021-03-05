@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p><em>Hello! I am Hailey Kim, studying Computer Science to contribute to innovations and the better world.<br>
-  I am a professional structural engineer (P.E) aiming to get a B.Eng in Computer Engineering this August.😊
+  I am a professional structural engineer (P.E)👯 aiming to get a B.Eng in Computer Engineering this August.😊
   </em></p>
 
 
@@ -40,9 +40,8 @@ const aboutMe = {
 };
 ```
 </br></br>
-<h2>💻 Some stats 💻</h2>
-
-!haileykr's Github Stats(https://github-readme-stats.vercel.app/api?username=haileykr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<h2>🌱 Some stats 🌱</h2>
+![haileykr's Github Stats](https://github-readme-stats.vercel.app/api?username=haileykr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ---
 
