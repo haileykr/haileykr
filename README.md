@@ -40,13 +40,14 @@ const aboutMe = {
       },
       databases: ["MongoDB", "mySQL"],
    },
-   currentOccupation: ["student, looking for job opportunities"];
-   motto: "You can only connect the dots looking backwards! - I am sure what I have had interest in and spent time on will be connected and enable me to achieve what I want."
+   currentOccupation: ["student, looking for job opportunities"],
+   motto: "You can only connect the dots looking backwards!"
 };
 ```
 </br></br>
-<h2>🌱 Some stats 🌱</h2>
-![haileykr's Github Stats](https://github-readme-stats.vercel.app/api?username=haileykr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<h2>🌱 Github stats 🌱</h2>
+![haileykr's github stats](https://github-readme-stats.vercel.app/api?username=haileykr&show_icons=true)
+
 
 ---
 
