@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p><em>Hello! I am Hailey Kim, studying Computer Engineering to contribute to innovations and the better world.<br>
-  I am a Professional Structural Engineer (P.E)👯 aiming to get a B.Eng in Computer Engineering this August.😊
+  I am a <b>Professional Structural Engineer</b> (P.E)👯 aiming to get a <b>B.Eng in Computer Engineering this August</b>.😊
   </em></p>
   
 [![Linkedin: haileykr](https://img.shields.io/badge/-hailey_harry_kim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileyharrykim/)](https://www.linkedin.com/in/haileyharrykim/) [![Portfolio: haileykr](https://img.shields.io/badge/-portfolio_github_blog-green?style=flat-square&logo=Github&logoColor=white&link=https://haileykr.github.io)](https://haileykr.github.io) [![Tistory: haileykr](https://img.shields.io/badge/-tistory_(korean)-black?style=flat-square&logo=Github_Sponsors&logoColor=white&link=https://www.linkedin.com/in/haileyharrykim/)](https://piaflu.tistory.com)
@@ -26,20 +26,20 @@ Here are some ideas to get you started:
 ```javascript
 const aboutMe = {
    pronouns: "she" | "her",
-   code: ["Javascript", "Python", "HTML", "CSS", "C"],
+   languages: ["Javascript", "Python", "HTML", "CSS", "C"],
    technologies: {
-      frontEnd: {
-         css: ["Bulma", "Bootstrap", "Semantic UI"],
+      ✨ frontEnd: {
          js: ["React"],
+         css: ["Bulma", "Bootstrap", "Semantic UI"],
       },
-      backEnd: {
+      💻 backEnd: {
          js: ["Node", "Express"],
       },
-      databases: ["MongoDB", "mySQL"],
+      💬 databases: ["MongoDB", "mySQL"],
    },
    currentOccupation: ["student, looking for job opportunities"],
    motto: "You can only connect the dots looking backwards!",
-   funFact: "Registered Professional Structural Engineer (PE in California) / Building Enthusiast"
+   funFact: "Registered Professional Structural Engineer (PE in California) / Building Enthusiast" 👷
 };
 ```
 </br></br>
