@@ -33,7 +33,7 @@ const aboutMe = {
          css: ["Bulma", "Bootstrap", "Semantic UI"],
       },
       💻 backEnd: {
-         js: ["Node", "Express"],
+         js: ["Node.js", "Express"],
       },
       💬 databases: ["MongoDB", "mySQL"],
    },
