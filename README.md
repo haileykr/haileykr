@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[한국어](https://github.com/haileykr/blob/main/README.ko.md)
+
 <!--
 **haileykr/haileykr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,7 +28,7 @@ Here are some ideas to get you started:
 ```javascript
 const aboutMe = {
    pronouns: "she" | "her",
-   languages: ["Javascript", "Python", "HTML", "CSS", "C"],
+   languages: ["JavaScript", "Python", "HTML", "CSS", "C"],
    technologies: {
       ✨ frontEnd: {
          js: ["React"],
@@ -37,7 +39,7 @@ const aboutMe = {
       },
       💬 databases: ["MongoDB", "mySQL"],
    },
-   currentOccupation: ["student, looking for job opportunities"],
+   currentOccupation: "student, looking for job opportunities",
    motto: "You can only connect the dots looking backwards!",
    funFact: "Registered Professional Structural Engineer (PE in California) / Building Enthusiast" 👷
 };
