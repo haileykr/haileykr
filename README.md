@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[한국어](https://github.com/haileykr/blob/main/README.ko.md)
+[한국어](https://github.com/haileykr/haileykr/blob/main/README.ko.md)
 
 <!--
 **haileykr/haileykr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
