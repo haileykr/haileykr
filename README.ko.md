@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[영어](https://github.com/haileykr/blob/main/README.md)
+[영어](https://github.com/haileykr/haileykr/blob/main/README.md)
 
 <p><em>풀스택 개발자를 목표로 하는 김해리입니다.<br>
    더 나은 세상을 위해 제 손으로 무언가를 만드는 것을 좋아합니다.
