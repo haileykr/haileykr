@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </em></p>
   
 [![Linkedin: haileykr](https://img.shields.io/badge/-hailey_harry_kim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileyharrykim/)](https://www.linkedin.com/in/haileyharrykim/) [![Portfolio: haileykr](https://img.shields.io/badge/-portfolio_github_blog-green?style=flat-square&logo=Github&logoColor=white&link=https://haileykr.github.io)](https://haileykr.github.io) [![Tistory: haileykr](https://img.shields.io/badge/-tistory_(korean)-black?style=flat-square&logo=Github_Sponsors&logoColor=white&link=https://www.linkedin.com/in/haileyharrykim/)](https://piaflu.tistory.com)
-<br />
+<br /><br />
 
 ## Tech Stack ✨
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /><br />
@@ -49,7 +49,8 @@ Here are some ideas to get you started:
 }; -->
 
 <br />
-<h2>🌱 Github stats 🌱</h2>
+
+<h2>Github stats 🌱</h2>
 
 ![haileykr's github stats](https://github-readme-stats.vercel.app/api?username=haileykr&show_icons=true)
 
