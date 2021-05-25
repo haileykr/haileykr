@@ -7,7 +7,7 @@
    미국 캘리포니아 주 건축사 자격증 (P.E. in Structural Engineering)을 가지고 있으며, 현재 한국 학점은행제에서 2021년 8월에 컴퓨터공학 타전공학사 학위 취득을 예정하고 있습니다.
   </p>
   
-[![Linkedin: haileykr](https://img.shields.io/badge/-hailey_harry_kim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileyharrykim/)](https://www.linkedin.com/in/haileyharrykim/) [![Portfolio: haileykr](https://img.shields.io/badge/-portfolio_github_blog-green?style=flat-square&logo=Github&logoColor=white&link=https://haileykr.github.io)](https://haileykr.github.io) [![Tistory: haileykr](https://img.shields.io/badge/-tistory_(korean)-black?style=flat-square&logo=Github_Sponsors&logoColor=white&link=https://www.linkedin.com/in/haileyharrykim/)](https://piaflu.tistory.com)
+[![Linkedin: haileykr](https://img.shields.io/badge/-hailey_harry_kim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileyharrykim/)](https://www.linkedin.com/in/haileyharrykim/) [![Portfolio: haileykr](https://img.shields.io/badge/-portfolio-green?style=flat-square&logo=Github&logoColor=white&link=https://haileykr.github.io/portfolio)](https://haileykr.github.io/portfolio) [![Tistory: haileykr](https://img.shields.io/badge/-tistory_(korean)-black?style=flat-square&logo=Github_Sponsors&logoColor=white&link=https://www.linkedin.com/in/haileyharrykim/)](https://piaflu.tistory.com)
 <br /><br />
 
 ## Tech Stack ✨
