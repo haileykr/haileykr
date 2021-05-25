@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   I am a <b>Professional Structural Engineer</b> (P.E)👯 aiming to get a <b>B.Eng in Computer Engineering this August</b>.😊
   </em></p>
   
-[![Linkedin: haileykr](https://img.shields.io/badge/-hailey_harry_kim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileyharrykim/)](https://www.linkedin.com/in/haileyharrykim/) [![Portfolio: haileykr](https://img.shields.io/badge/-portfolio_github_blog-green?style=flat-square&logo=Github&logoColor=white&link=https://haileykr.github.io)](https://haileykr.github.io) [![Tistory: haileykr](https://img.shields.io/badge/-tistory_(korean)-black?style=flat-square&logo=Github_Sponsors&logoColor=white&link=https://www.linkedin.com/in/haileyharrykim/)](https://piaflu.tistory.com)
+[![Linkedin: haileykr](https://img.shields.io/badge/-hailey_harry_kim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileyharrykim/)](https://www.linkedin.com/in/haileyharrykim/) [![Portfolio: haileykr](https://img.shields.io/badge/-portfolio-green?style=flat-square&logo=Github&logoColor=white&link=https://haileykr.github.io/portfolio)](https://haileykr.github.io/portfolio) [![Tistory: haileykr](https://img.shields.io/badge/-tistory_(korean)-black?style=flat-square&logo=Github_Sponsors&logoColor=white&link=https://www.linkedin.com/in/haileyharrykim/)](https://piaflu.tistory.com)
 <br /><br />
 
 ```javascript
