@@ -52,7 +52,7 @@ const aboutMe = {
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileykr)](https://github.com/haileykr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileykr&hide=html,css,lua)](https://github.com/haileykr/github-readme-stats)
 
 
 
