@@ -50,6 +50,12 @@ const aboutMe = {
 
 ![haileykr's github stats](https://github-readme-stats.vercel.app/api?username=haileykr&show_icons=true)
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileykr)](https://github.com/haileykr/github-readme-stats)
+
+
+
 ---
 
 ⭐️ From  [haileykr](https://github.com/haileykr) inspired by [reeveng](https://github.com/reeveng)
