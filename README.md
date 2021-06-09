@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 ```javascript
 const aboutMe = {
    pronouns: "she" | "her",
-   languages: ["JavaScript", "Python", "HTML", "CSS", "C"],
+   languages: ["JavaScript", "Python", "SQL", "HTML", "CSS", "C"],
    technologies: {
       ✨ frontEnd: {
-         js: ["React"],
+         js: ["React.js"],
          css: ["Bulma", "Bootstrap", "Semantic UI"],
       },
       💻 backEnd: {
@@ -52,7 +52,7 @@ const aboutMe = {
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileykr&hide=html,css,lua)](https://github.com/haileykr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileykr&hide=html,css,lua,ejs,glsl)](https://github.com/haileykr/github-readme-stats)
 
 
 
