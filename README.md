@@ -28,16 +28,16 @@ Here are some ideas to get you started:
 ```javascript
 const aboutMe = {
    pronouns: "she" | "her",
-   languages: ["JavaScript", "Python", "SQL", "HTML", "CSS", "C"],
+   languages: ["JavaScript", "TypeScript", "Python", "SQL", "HTML", "CSS", "C"],
    technologies: {
       ✨ frontEnd: {
-         js: ["React.js"],
+         js: ["React.js", "Next.js"],
          css: ["Bulma", "Bootstrap", "Semantic UI"],
       },
       💻 backEnd: {
          js: ["Node.js", "Express"],
       },
-      💬 databases: ["MongoDB", "mySQL"],
+      💬 databases: ["MongoDB", "MySQL"],
    },
    currentOccupation: "student, looking for job opportunities",
    motto: "You can only connect the dots looking backwards!",
