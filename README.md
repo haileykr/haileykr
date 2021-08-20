@@ -39,7 +39,6 @@ const aboutMe = {
       },
       💬 databases: ["MongoDB", "MySQL"],
    },
-   currentOccupation: "student, looking for job opportunities",
    motto: "You can only connect the dots looking backwards!",
    funFact: "Registered Professional Structural Engineer (PE in California) / Building Enthusiast 👷"
 };
