@@ -5,7 +5,7 @@
 <p> 풀스택 개발자 및 소프트개발을 목표로 매일 배워가는 김해리입니다.<br>
    더 나은 세상을 위해 제 손으로 무언가를 만드는 것을 좋아합니다. <br>
    현재 플레이오토에서 온라인 쇼핑몰 자동화 솔루션 엔진 개발팀에서 인턴으로 즐겁게 일하고 있습니다. <br>
-   미국 캘리포니아 주 건축사 자격증 (P.E. in Structural Engineering)을 가지고 있으며, 대한민국 학점은행제에서 2021년 8월에 컴퓨터공학 타전공학사 학위 취득을 예정하고 있습니다.
+   미국 캘리포니아 주 건축사 자격증 (P.E. in Structural Engineering)을 가지고 있으며, Civil Engineering 학사 및 석사, 그리고 대한민국 학점은행제에서 Computer Engineering 타전공학사를 취득했습니다.
   </p>
   
 [![Linkedin: haileykr](https://img.shields.io/badge/-hailey_harry_kim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileyharrykim/)](https://www.linkedin.com/in/haileyharrykim/) [![Portfolio: haileykr](https://img.shields.io/badge/-portfolio-green?style=flat-square&logo=Github&logoColor=white&link=https://haileykr.github.io/portfolio)](https://haileykr.github.io/portfolio) [![Tistory: haileykr](https://img.shields.io/badge/-tistory_(korean)-black?style=flat-square&logo=Github_Sponsors&logoColor=white&link=https://www.linkedin.com/in/haileyharrykim/)](https://piaflu.tistory.com)
