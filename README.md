@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <p><em>Hello! I am Hailey Kim, studying Computer Engineering to contribute to innovations and the better world.<br>
-  I am currently working as a software engine developer intern at Playauto, an eCommerce app-based Solution Provider.<br>
+  I am currently working as a software engine developer intern at Playauto, an eCommerce web-based Solution Provider.<br>
   I am a <b>Professional Structural Engineer</b> (P.E) with B.Eng and M.Eng in Civil Engineering, and expecting to get a <b>B.Eng in Computer Engineering this August</b>.
   </em></p>
   
