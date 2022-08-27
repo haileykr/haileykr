@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, world! 👋 
 
 [영어](https://github.com/haileykr/haileykr/blob/main/README.md)
 
