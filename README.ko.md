@@ -2,11 +2,8 @@
 
 [영어](https://github.com/haileykr/haileykr/blob/main/README.md)
 
-<p> 풀스택 개발자 및 소프트개발을 목표로 매일 배워가는 김해리입니다.<br>
-   더 나은 세상을 위해 제 손으로 무언가를 만드는 것을 좋아합니다. <br>
-   현재 Arup에서 Data Strategy Developer으로 즐겁게 일하고 있습니다. <br>
-   미국 캘리포니아 주 건축사 자격증 (P.E. in Structural Engineering)을 가지고 있으며, Civil Engineering 학사 및 석사, 그리고 대한민국 학점은행제에서 Computer Engineering 타전공학사를 취득했습니다.
-  </p>
+<p> 안녕하세요, 미국 뉴욕 엔지니어링 컨설팅 회사 ARUP에서 풀스택 웹, 그리고 자동화 시스템을 개발하는 개발자 김해리입니다.<br/>디지털 기술을 건축/건설 분야에 접목시키며, 건축사로 3년 동안 실무에서 일하며 느꼈던 첨단 기술에 대한 갈증을 직접 해소해가고 있습니다. 매달 평균 2개 이상의 다양한 프로젝트를 주도 및 참여하고, 개발자, 엔지니어, 클라이언트들과 활발히 소통하며, 효과적이고 효율적인 도구들을 만들고 유지/보수하고 있습니다. 컨설팅 회사의 특징상 프로젝트마다 성격과 목적이 달라 새로운 기술을 끊임없이 배우고 있습니다.<br/>제가 꿈꿔왔던 변화들을 제가 애정하는 분야에 불러오며, 제가 만드는 애플리케이션이 많은 사람들에게 도움이 되는 것을 보며, 의미있는 일을 할 수 있음에 매일 감사하며 보람을 느낍니다.
+</p>
   
 [![Linkedin: haileykr](https://img.shields.io/badge/-hailey_harry_kim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileyharrykim/)](https://www.linkedin.com/in/haileyharrykim/) [![Introduction: haileykr](https://img.shields.io/badge/-portfolio-green?style=flat-square&logo=Github&logoColor=white&link=https://haileykr.github.io/portfolio)](https://haileykr.github.io/portfolio)
 <br /><br />
