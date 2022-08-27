@@ -1,10 +1,15 @@
-### Hi there 👋
+### Hello, world! 👋
 
 [한국어](https://github.com/haileykr/haileykr/blob/main/README.ko.md)
+
+Hello, world! I am Hailey Kim, a Data Strategy and Web Full-Stack Developer at ARUP, an engineering consulting firm.<br />
+I am also a professional structural engineer (P.E) who practiced in the industry for 3 years. As a developer, I am creating and maintaining various applications where digital technology effectively and efficiently solves problems in the AEC (Architecture, Engineer, and Construction) industry. I lead and participate two or more projects every month, and actively communicate with other developers, engineers, and clients. Every project has different goals and pursue unique functionalities, and I keep learning new technologies to find and implement the best tech stack which suits them.<br/>
+I am thankful to make positive impacts through digital technologies to the AEC field that I love, and see how my applications bring benefits to many people.
 
 [![Linkedin: haileykr](https://img.shields.io/badge/-hailey_harry_kim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileyharrykim/)](https://www.linkedin.com/in/haileyharrykim/) [![Introduction: haileykr](https://img.shields.io/badge/-portfolio-green?style=flat-square&logo=Github&logoColor=white&link=https://haileykr.github.io/portfolio)](https://haileykr.github.io/portfolio)
 <br />
 <br />
+
 
 ## Tech Stack ✨
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/><br/>
