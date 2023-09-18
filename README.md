@@ -31,8 +31,4 @@ I am thankful to make positive impacts through digital technologies to the AEC f
       💬 databases: ["MongoDB", "mySQL"],
    }
 }; -->
-</br></br>
-<h2>Github stats 🌱</h2>
-
-![haileykr's github stats](https://github-readme-stats.vercel.app/api?username=haileykr&show_icons=true)
 
